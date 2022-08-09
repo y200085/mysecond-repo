@@ -1,0 +1,855 @@
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 
+
+ Prepared variables 
+ 
+
+ get inventory collector working dir 
+ 
+
+ execute inventory collector 
+ 
+
+ copy the inventory collector result to OMACIM 
+ 
+
+ done inventory 
+ 

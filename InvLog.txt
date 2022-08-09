@@ -1,0 +1,114 @@
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi4F9C.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2E14.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2D3A.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2B07.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2923.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2422.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2CAD.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi317F.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi23A5.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2896.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi26D1.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2CDC.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2858.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2819.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2B65.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi28F4.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi275E.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2DB7.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2D2A.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi277D.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2932.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2B46.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2FDA.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi28B5.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi22D9.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2EB1.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2CDD.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi395F.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2F9B.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi27CB.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2AF8.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2A1D.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi33E1.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2E82.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2990.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2F0E.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi3CCA.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2EEF.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi318F.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi3D57.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi37F8.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi3373.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2AA9.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi279C.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2D59.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2D1A.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi26E1.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi281A.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi223D.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2AE8.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2700.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2AD8.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2C01.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi22AB.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi2C6F.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsiF71B.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
+-padding=4 -outc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\dsi25C7.tmp" -logc="C:\Program Files (x86)\Dell\SysMgt\dsia\bin\invcol\lastrun.log"
+Inventory Collection completed
